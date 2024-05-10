@@ -1,0 +1,11 @@
+html {
+    font-size: 10px; /* px 은 'pixels' 를 의미합니다: 기본 글자 크기는 현재 10 pixels 높이입니다. */
+    background-color: #00539f;        
+}
+
+
+  /* 
+    padding, 컨텐트 주위의 공간 (예, 문단 글자의 주위)
+    border, padding 의 바깥쪽에 놓인 실선
+    margin, 요소의 바깥쪽을 둘러싼 공간
+  */
